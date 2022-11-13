@@ -1,0 +1,2 @@
+# skills
+IT knowledge study
